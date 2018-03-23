@@ -10,6 +10,7 @@ All of the following accuracy stats are reported on a set of 300 URLs sampled fr
 
 Stats were collected using the [trace-evaluation](https://github.com/patrickhulce/lighthouse-trace-evaluations) scripts. Table cells contain [Spearman's rho](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient) and [MAPE](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error) for the respective metric.
 
+#test
 ### Lantern Accuracy Stats
 | Comparison | FCP | FMP | TTI |
 | -- | -- | -- | -- |
